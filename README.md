@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Bruno 👋
 
-<!--
-**bruno-paniagua/bruno-paniagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunications Engineering student focused on Cybersecurity, Networking and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Offensive & Defensive Security
+- Red Team / Blue Team / Purple Team
+- Penetration Testing
+- MITRE ATT&CK
+- Ransomware & Adversary Simulation
+- Security Labs
+
+## 🌐 Networking
+
+- Network Infrastructure
+- TCP/IP
+- Routing & Switching
+- Network Security
+
+## 🤖 Artificial Intelligence
+
+- Machine Learning
+- Reinforcement Learning
+- AI applied to Cybersecurity
+
+## 🛠️ Technologies
+
+Python • Java • C/C++ • Bash • Linux • Windows
+
+## 🚀 Featured Projects
+
+### RAGNAROK
+Cybersecurity / Purple Team project...
+
+### TFG
+Your Final Degree Project...
+
+### Other Projects
+
+## 📫 Connect with me
+
+LinkedIn
+YouTube
+Email
