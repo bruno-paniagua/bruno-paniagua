@@ -31,5 +31,5 @@ Deterministic ransomware orchestrator (Python) that runs a full intrusion chain 
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/bruno-paniagua-garcía
-- YouTube: <tu-canal>
+- YouTube: https://www.youtube.com/@BrunoPaniaguaGarc%C3%ADa
 - Email: brunopaniaguagarcia@gmail.com
